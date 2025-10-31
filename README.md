@@ -30,7 +30,5 @@ Each Python script runs independently. Clone the repository and execute scripts 
 python3 script_name.py
 ```
 
-Feel free to modify or expand the mini projects with your own logic!
-
 ## License
 Standard MIT License applies.
